@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T17:59:31.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="_dLWQQXyKoR9s5Hn2owl" version="14.4.2" type="github"><diagram id="Y4Er28gGYwmPT1ONX5_L" name="Page-1">3VnbcpswEP0aP7bDxRj86MRJ2kza6Yyn0yRvCmxBHYEYIYKdr68EwlxEEudiSPtgD7uIRXv2nJVkz+zTeHvBUBp9owGQmWUE25m9nlnWcr4Q39KxqxyO51aOkOGgcpmNY4MfQDkN5c1xAFlnIKeUcJx2nT5NEvB5x4cYo0V32G9Kum9NUQiaY+Mjont/4YBHlddzjMb/BXAY1W82DXUnRvVg5cgiFNCi5bLPZvYpo5RXV/H2FIjErsaleu78kbv7iTFI+CEPFIW12tqXl+4tOrcvNt6VlS4/qSj3iOQq4Z8ZMOFhlJBM1g37oObPdzUoIrDAXxgnRYQ5bFLkyzuFYIDwRTwmwjLFpYoOjMP20WmbezAEiYDGwNlODFEPzBV8u65ZNMUwa4SjViE85UOq/uE+cAORuFAovQAxS0NMhycJVpJ6wvIJyjLsD6ECgca8ZzFpZe0MJF37GBDE8X03/BAS6g0/KBYv3kNuLrqY97HMaM58UA+1GdeL069dPw5HLASuxSnLsk/69ZVa6IURkG+USRmPaEgTRM4a7wmjeRKAjGoIqxlzRWmqqvcHON+pRoVyTru1hS3m163rGxnqs6Os9VZFLo2dMg7lg8ilRP6JnO1h3ryRELY7aSFtTXIXkABDHGRqKAlovO9UZePSCt8t6/GbVp/5zoFda3GsruX8/13rOZIe2rXm03YtV6vUGmcpQbsPRvE+TJNT3Hs7xSdu3u6U8nF6i75pvlI/i2n1s9Ro8FXuY7GcIRIfUdtzXTwRje/ybBTh9PEZ2NF6Y25ozcUBwjn+xukddVQzt2LaUwOd4UodLKW3AW9owK+CoN/mxXFXfPk5K3EQ2fuU6Seysbu/Z3yw7m/qJ9mXt/9EzOS6bvLSaC0A0mxWgNKql4CJl43loWw3hks6zvri2u+zPXO9bpw+o468vJj6+f871ZgmhMW73EIEh4kknigvMOGQ8sM+Iit1I8ZBUHVSyPADuitDSaakMpUyOedk5qxlLNE8s6qPvpOcXdsZBLVFDXuAGtbR1Kwf+V6uZqXKRok3rTvjqHIqsS16IjGd127meoEsY2S5zTUi3ED2z+utvwc0B9bP+aiC038gaI6dCRQfcAtiGuPtQYTZ/FBfcbv5t8M++ws=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-24T17:55:42.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="SjV8ywdwxCimud9wOZBu" version="14.4.2" type="github">
+  <diagram id="Y4Er28gGYwmPT1ONX5_L" name="Page-1">
+    <mxGraphModel dx="1261" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-1" value="User rolls dice" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-2" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="80" as="sourcePoint" />
+            <mxPoint x="240" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ww2Ax3JJ7ZaF3GS8L2p9-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-3" value="Generate random dice roll" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-5" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="80" as="sourcePoint" />
+            <mxPoint x="440" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-7" value="Display dice roll" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ww2Ax3JJ7ZaF3GS8L2p9-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="110" as="sourcePoint" />
+            <mxPoint x="640" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-9" value="Is it a 1?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ww2Ax3JJ7ZaF3GS8L2p9-10" target="ww2Ax3JJ7ZaF3GS8L2p9-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-10" value="Add dice roll to current scorce" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="804" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ww2Ax3JJ7ZaF3GS8L2p9-9" target="ww2Ax3JJ7ZaF3GS8L2p9-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="80" as="sourcePoint" />
+            <mxPoint x="780" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-12" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="735" y="60" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ww2Ax3JJ7ZaF3GS8L2p9-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="150" as="sourcePoint" />
+            <mxPoint x="680" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ww2Ax3JJ7ZaF3GS8L2p9-15" value="Display new current score" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-1" value="User rolls dice" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4SP8xlYCGWsLMYZ0JimX-2" target="4SP8xlYCGWsLMYZ0JimX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-2" value="User rolls dice" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="210" as="sourcePoint" />
+            <mxPoint x="240" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-4" value="Generate random dice roll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="209.5" as="sourcePoint" />
+            <mxPoint x="430" y="209.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-6" value="Display dice roll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4SP8xlYCGWsLMYZ0JimX-11" target="4SP8xlYCGWsLMYZ0JimX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4SP8xlYCGWsLMYZ0JimX-11" target="4SP8xlYCGWsLMYZ0JimX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-11" value="Is it a 1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-13" value="Generate random dice roll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-16" value="Generate random dice roll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
