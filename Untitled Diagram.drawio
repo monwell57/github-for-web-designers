@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T17:56:55.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="urEi9kdBmMOrkzwv6Q4Z" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T17:58:16.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="xAalHhT16e7fYu_XOH-z" version="14.4.2" type="github">
   <diagram id="Y4Er28gGYwmPT1ONX5_L" name="Page-1">
     <mxGraphModel dx="1261" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,6 +113,12 @@
         </mxCell>
         <mxCell id="4SP8xlYCGWsLMYZ0JimX-18" value="Generate random dice roll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-20" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="190" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4SP8xlYCGWsLMYZ0JimX-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
